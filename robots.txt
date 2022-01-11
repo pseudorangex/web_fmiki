@@ -1,0 +1,4 @@
+Sitemap: https://pseudorangex.github.io/web_fmiki/sitemap.xml
+
+User-agent: *
+Disallow:
