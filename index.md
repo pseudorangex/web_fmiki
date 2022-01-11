@@ -1,8 +1,10 @@
-
-@def title="fmiki's website"
+@def title = "fmiki's website"
 
 
 # Welcome!
+
+\tableofcontents
+
 
 ## About Me
 
@@ -11,10 +13,8 @@
 所属：国立研究開発法人　海洋研究開発機構　副主任研究員
 
 
-
 Hi! I am Mikiko Fujita, Ph.D, researcher at [JAMSTEC] (http://www.jamstec.go.jp).
-You can also find me on [Instagram](https://www.instagram.com/mikikofujitagnss/) 
-and [Twitter](https://twitter.com/gnss_weather).
+You can also find me on [Instagram](https://www.instagram.com/mikikofujitagnss/) and [Twitter](https://twitter.com/gnss_weather).
 
 ## Research Interests
 
