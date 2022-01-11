@@ -1,5 +1,5 @@
 
-@def prepath = "fmiki_web"
+@def prepath = "web_fmiki"
 @def website_title = "fmiki's website"
 @def author = "fmiki"
 @def mintoclevel = 2
