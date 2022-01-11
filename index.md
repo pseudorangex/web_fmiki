@@ -1,10 +1,8 @@
-@def title = "fmiki's website"
+
+@def title="fmiki's website"
 
 
 # Welcome!
-
-\tableofcontents <!-- you can use \toc as well -->
-
 
 ## About Me
 
@@ -16,14 +14,7 @@
 
 Hi! I am Mikiko Fujita, Ph.D, researcher at [JAMSTEC] (http://www.jamstec.go.jp).
 You can also find me on [Instagram](https://www.instagram.com/mikikofujitagnss/) 
-~~~
-<i class="lab la-instagram"></i>
-~~~
- and [Twitter](https://twitter.com/gnss_weather)
-~~~
-<i class="lab la-twitter"></i>
-~~~
-.
+and [Twitter](https://twitter.com/gnss_weather).
 
 ## Research Interests
 
