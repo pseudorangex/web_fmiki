@@ -13,15 +13,16 @@
 所属：国立研究開発法人　海洋研究開発機構　副主任研究員
 
 
-Hi! I am Mikiko Fujita, Ph.D, researcher at [JAMSTEC] (http://www.jamstec.go.jp).
+Hi! I am Mikiko Fujita, Ph.D., a researcher at [JAMSTEC] (http://www.jamstec.go.jp).
 You can also find me on [Instagram](https://www.instagram.com/mikikofujitagnss/) and [Twitter](https://twitter.com/gnss_weather).
+
 
 ## Research Interests
 
 GNSSの大気遅延量を活用した大気観測手法の開発、水蒸気量の気候変化（温暖化に伴う水蒸気量の変化など）に興味があります。
-一緒に研究をやってみたい方を募集しています。企業との共同研究も歓迎します。
+一緒に研究をやってみたい方（学生、研究者）を募集しています。企業との共同研究も歓迎します。お気軽にお問い合わせください。
 
-Now I am working on the development of a novel method for atmospheric observations using GNSS signals. Grasping the behavior of water vapor according to climate change is the main research target. Please feel free to contact me if you are interested.
+Now I am working on developing a novel method for atmospheric observations using GNSS signals. The leading research target is grasping the behavior of water vapor according to climate change is the top research target. Please feel free to contact me if you are interested.
 
 
 ## Highlights
@@ -35,16 +36,16 @@ We are working on a new project using GNSS, which FOREST supports. Stay tuned fo
 
 1. Fujita et al., 2020: Experimental Observations of Precipitable Water Vapor over the Open Ocean Collected by Autonomous Surface Vehicles for Real-Time Monitoring Applications. [doi:10.2151/sola.16A-004](https://doi.org/10.2151/sola.16A-004)
 
-1. Fujita et al., 2019: Precipitation Changes in a Climate With 2-K Surface Warming From Large Ensemble Simulations Using 60-km Global and 20-km Regional Atmospheric Models. [doi:10.1029/2018GL079885](https://doi.org/10.1029/2018GL079885) `Cited in IPCC AR6 WG1 Report`
+1. Fujita et al., 2019: Precipitation Changes in a Climate With 2-K Surface Warming From Large Ensemble Simulations Using 60-km Global and 20-km Regional Atmospheric Models. [doi:10.1029/2018GL079885](https://doi.org/10.1029/2018GL079885) **Cited in IPCC AR6 WG1 Report**
 
 1. Fujita and Sato, 2017: Observed behaviours of precipitable water vapour and precipitation intensity in response to upper air profiles estimated from surface air temperature. [doi:10.1038/s41598-017-04443-9](https://doi.org/10.1038/s41598-017-04443-9)
 
-All publications and presentations are in the publications lists (see the menu).
+All publications and presentations are in the list (see the menu).
 
 [Google scholar](https://scholar.google.co.jp/citations?user=E7vBsNUAAAAJ&hl=ja)、[Researchmap](https://researchmap.jp/Mikiko_Fujita?lang=en)、[Reserachgate](https://www.researchgate.net/profile/Mikiko-Fujita)からもどうぞ。
 
 
-## List of funded project
+## List of the funded projects
 
 1. 気候変動に耐え得る新たな大気観測網の構築, JST創発的研究支援事業, A novel conception of a sustainable atmospheric observation network, Fusion Oriented REsearch for disruptive Science and Technology (FOREST) program, JST, Apr, 2021-.
 
