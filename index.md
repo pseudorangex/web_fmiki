@@ -8,7 +8,7 @@
 
 ## About Me
 
-藤田実季子
+藤田　実季子
 
 所属：国立研究開発法人　海洋研究開発機構　副主任研究員
 
@@ -26,10 +26,9 @@ Now I am working on the development of a novel method for atmospheric observatio
 
 ## Highlights
 
-GNSSによる新しい観測ネットワーク構築に取り組んでいます。こちらはJST創発的研究支援事業による支援を受けています。
+GNSSによる新しい観測ネットワークの開発と構築に取り組んでいます。こちらはJST創発的研究支援事業による支援を受けています。
 
-We are working on a new project using GNSS, which FOREST supports.
-Stay tuned for updates! 
+We are working on a new project using GNSS, which FOREST supports. Stay tuned for updates! 
 
 
 ## Major publication

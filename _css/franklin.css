@@ -5,8 +5,8 @@
 :root {
   --block-background: hsl(0, 0%, 94%);
   --output-background: hsl(0, 0%, 98%);
-  --small: 12px;
-  --normal: 17px;
+  --small: 11px;
+  --normal: 15px;
   --text-color: hsv(0, 0%, 20%);
 }
 
@@ -15,7 +15,7 @@
 ================================================================== */
 
 html {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, 'Noto Sans JP', sans-serif;
   font-size: var(--normal);
   color: var(--text-color);
 }
