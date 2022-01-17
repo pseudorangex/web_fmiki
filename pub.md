@@ -15,8 +15,7 @@ Publicaitions and presentations
 
 1. Fujita, M., T. Sato, 2017: Observed behaviours of precipitable water vapour precipitation intensity in response to upper air profiles estimated from surface air temperature. [doi:10.1038/s41598-017-04443-9](https://doi.org/10.1038/s41598-017-04443-9)
 
-1. Fujita, M., A. Wada, T. Iwabuchi, C. Rocken, 2014: Tropospheric monitoring over the ocean using shipborne GNSS receiver. Proceedings of the ION GNSS 2014, [url](https://www.ion.org/publications/abstract.cfm?jp=p&articleID=12225)
-Best presentation award
+1. Fujita, M., A. Wada, T. Iwabuchi, C. Rocken, 2014: Tropospheric monitoring over the ocean using shipborne GNSS receiver. Proceedings of the ION GNSS 2014, [url](https://www.ion.org/publications/abstract.cfm?jp=p&articleID=12225) **Best presentation award**
 
 1. Fujita, M., H. G. Takahashi, M. Hara, 2013: Diurnal cycle of precipitation over the eastern Indian Ocean off Sumatra Island during different phases of Indian Ocean Dipole. [doi:10.1002/asl2.432](https://doi.org/0.1002/asl2.432)
 
