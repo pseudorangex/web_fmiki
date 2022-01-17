@@ -56,7 +56,7 @@ Best presentation award
 1. Wakazuki, Y., M. Hara, M. Fujita, C. Suzuki, X. Ma, F. Kimura, 2015: Effect of climate change on the snow disappearance date in mountainous areas of central Japan. [doi:10.3178/hrl.9.20](https://doi.org/10.3178/hrl.9.20)
 
 1. Rasmy, M., M. Shresth, T. Koike, M. Hara, M. Fujita, F. Kimura, 2014: A combined dynamical/statistical downscaling approach for assessing future of water resources in the Tone river basin, Japan. [doi:10.2208/jscejhe.70.I_187](https://doi.org/10.2208/jscejhe.70.I_187)
-  
+
 1. Ma, X., H. Kawase, S. Adachi, M. Fujita, H. G. Takahashi, M. Hara, N. Ishizaki, T. Yoshikane, H. Hatsushika, Y. Wakazuki, F. Kimura, 2013: Simulating river discharge in a snowy region of Japan using output from a regional climate model. [10.5194/adgeo-35-55-2013](https://doi.org/10.5194/adgeo-35-55-2013)
 
 1. Rasmy, M., T, Koike, P.A.Jaranilla-Sanchez, C. T. Nyunt, M. Hara, M. Fujita, H. Kawase, 2013: Identifying Gaps and Opportunities Between Statistical and Dynamical Downscaling Approaches Over Shikoku Island, Japan. [doi:10.2208/jscejhe.69.I_133](https://doi.org/10.2208/jscejhe.69.I_133)
