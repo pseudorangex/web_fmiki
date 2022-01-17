@@ -1,7 +1,7 @@
 @def title = "fmiki's website"
 
 
-# Welcome!
+# 👋 Welcome!
 
 \tableofcontents
 
