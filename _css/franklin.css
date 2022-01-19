@@ -15,7 +15,7 @@
 ================================================================== */
 
 html {
-  font-family: Helvetica, Arial, 'Noto Sans JP', sans-serif;
+  font-family: 'Noto Sans JP';
   font-size: var(--normal);
   color: var(--text-color);
 }
