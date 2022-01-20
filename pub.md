@@ -1,4 +1,4 @@
-@def title = "fmiki's website"
+@def title = "Mikiko Fujita"
 
 
 # Hi there ✋
