@@ -42,7 +42,7 @@ We are working on a new project using GNSS, which FOREST supports. Stay tuned fo
 
 All publications and presentations are in the list (see the menu).
 
-[Google scholar](https://scholar.google.co.jp/citations?user=E7vBsNUAAAAJ&hl=ja)、[Researchmap](https://researchmap.jp/Mikiko_Fujita?lang=en)、[Reserachgate](https://www.researchgate.net/profile/Mikiko-Fujita)からもどうぞ。
+[Google scholar](https://scholar.google.co.jp/citations?user=E7vBsNUAAAAJ&hl=ja)、[Researchmap](https://researchmap.jp/Mikiko_Fujita?lang=en)、[Researchgate](https://www.researchgate.net/profile/Mikiko-Fujita)からもどうぞ。
 
 
 ## List of the funded projects
