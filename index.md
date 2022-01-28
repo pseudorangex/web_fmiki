@@ -36,7 +36,7 @@ We are working on a new project using GNSS, which FOREST supports. Stay tuned fo
 
 1. Fujita et al., 2020: Experimental Observations of Precipitable Water Vapor over the Open Ocean Collected by Autonomous Surface Vehicles for Real-Time Monitoring Applications. [doi:10.2151/sola.16A-004](https://doi.org/10.2151/sola.16A-004)
 
-1. Fujita et al., 2019: Precipitation Changes in a Climate With 2-K Surface Warming From Large Ensemble Simulations Using 60-km Global and 20-km Regional Atmospheric Models. [doi:10.1029/2018GL079885](https://doi.org/10.1029/2018GL079885) **Cited in IPCC AR6 WG1 Report**
+1. Fujita et al., 2019: Precipitation Changes in a Climate With 2-K Surface Warming From Large Ensemble Simulations Using 60-km Global and 20-km Regional Atmospheric Models. [doi:10.1029/2018GL079885](https://doi.org/10.1029/2018GL079885) 👈**Cited in IPCC AR6 WG1 [Report](https://www.ipcc.ch/report/ar6/wg1/)**
 
 1. Fujita and Sato, 2017: Observed behaviours of precipitable water vapour and precipitation intensity in response to upper air profiles estimated from surface air temperature. [doi:10.1038/s41598-017-04443-9](https://doi.org/10.1038/s41598-017-04443-9)
 
