@@ -15,7 +15,8 @@
 ================================================================== */
 
 html {
-  font-family: 'Noto Sans JP';
+  font-family: 'IBM Plex Serif', serif;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: var(--normal);
   color: var(--text-color);
 }
