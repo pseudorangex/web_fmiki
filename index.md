@@ -22,7 +22,7 @@ You can also find me on [Instagram](https://www.instagram.com/mikikofujitagnss/)
 GNSSの大気遅延量を活用した大気観測手法の開発、水蒸気量の気候変化（温暖化に伴う水蒸気量の変化など）に興味があります。
 一緒に研究をやってみたい方（学生、研究者）を募集しています。企業との共同研究も歓迎します。お気軽にお問い合わせください。
 
-Now I am working on developing a novel method for atmospheric observations using GNSS signals. The leading research target is grasping the behavior of water vapor according to climate change is the top research target. Please feel free to contact me if you are interested.
+Now I am developing a novel method for atmospheric observations using GNSS signals. The leading research target is grasping the behavior of water vapor according to climate change. Please feel free to contact me if you are interested.
 
 
 ## Highlights
